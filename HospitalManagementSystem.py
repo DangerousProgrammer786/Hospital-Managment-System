@@ -148,4 +148,4 @@ while a == 1:
         else:
             print("Invalid Input. Try again")
     except:
-        print("Aap ko sharam nahi aati. Menu mein se koi cheez choose karen")
+        print("Invalid number")
